@@ -1,48 +1,62 @@
-# Olhos do Silêncio — Leitor de eBook
+# Olhos do Silêncio
 
-Leitor digital estático feito em HTML, CSS e JavaScript puro. Transforma capítulos em Markdown em uma experiência de leitura imersiva, inspirada em Kindle e Apple Books.
+> **Algumas casas guardam memórias. Outras... guardam algo que nunca deveria ter despertado.**
 
----
+**Olhos do Silêncio** é um romance de terror psicológico, suspense e mistério que conduz o leitor por uma investigação onde realidade, culpa e insanidade tornam-se praticamente indistinguíveis.
 
-## Como usar
+Nada acontece por acaso.
 
-O projeto faz requisições locais via `fetch()`, então **não funciona abrindo o `index.html` diretamente** no navegador (limitação de segurança dos navegadores modernos). Você precisa de um servidor local simples.
+Cada capítulo revela uma nova peça de um quebra-cabeça perturbador.
 
-### Opção 1 — VS Code (recomendada)
+Cada resposta gera perguntas ainda piores.
 
-1. Instale a extensão **Live Server** (ritwickdey.LiveServer)
-2. Abra a pasta `ebook/` no VS Code
-3. Clique com o botão direito em `index.html` → **Open with Live Server**
-4. O navegador abrirá automaticamente em `http://127.0.0.1:5500`
+E, quando você acreditar ter entendido tudo...
 
-### Opção 2 — Python
-
-```bash
-cd ebook
-python -m http.server 8000
-```
-Acesse `http://localhost:8000`
-
-### Opção 3 — Node.js
-
-```bash
-cd ebook
-npx serve .
-```
-Acesse o endereço que aparecer no terminal.
+...será tarde demais.
 
 ---
 
-## Estrutura de arquivos
+## 📖 Leia agora
+
+A versão online pode ser acessada em:
+
+**https://harrisalexandre.github.io/ebook-olhos-do-silencio/**
+
+---
+
+## Sobre o projeto
+
+Este repositório contém uma experiência de leitura digital desenvolvida inteiramente em **HTML, CSS e JavaScript puro**, transformando arquivos Markdown em um eBook moderno, inspirado na experiência de leitura de dispositivos como Kindle e Apple Books.
+
+Todo o conteúdo é carregado dinamicamente, preservando uma navegação fluida, limpa e focada exclusivamente na história.
+
+---
+
+# Recursos do leitor
+
+* 🌙 Temas Claro, Escuro e Sépia
+* 📖 Experiência de leitura semelhante ao Kindle
+* 🔍 Busca em todos os capítulos
+* 📑 Marcadores de leitura
+* 💾 Salvamento automático do progresso
+* 📱 Interface totalmente responsiva
+* ⌨️ Navegação por teclado
+* 📊 Barra de progresso da leitura
+* ⏱️ Tempo estimado de leitura por capítulo
+* ⚡ Carregamento otimizado dos capítulos
+
+---
+
+# Estrutura do projeto
 
 ```
 ebook/
-├── index.html          # aplicação principal
-├── style.css           # estilos e temas
-├── script.js           # lógica do leitor
-├── assets/             # imagens e fontes extras (opcional)
+├── index.html
+├── style.css
+├── script.js
+├── assets/
 └── livro/
-    ├── index.json      # metadados e ordem dos capítulos
+    ├── index.json
     ├── prologo.md
     ├── cap01.md
     ├── cap02.md
@@ -51,82 +65,155 @@ ebook/
 
 ---
 
-## Adicionando ou editando capítulos
+# Como executar
 
-Abra `livro/index.json`. Ele controla tudo: título, autor, descrição e a ordem exata de leitura.
+Como os capítulos são carregados utilizando `fetch()`, o projeto precisa ser servido por um servidor HTTP local.
+
+## VS Code (recomendado)
+
+1. Instale a extensão **Live Server**
+2. Abra a pasta do projeto
+3. Clique em **Open with Live Server**
+
+---
+
+## Python
+
+```bash
+python -m http.server 8000
+```
+
+Depois acesse:
+
+```
+http://localhost:8000
+```
+
+---
+
+## Node.js
+
+```bash
+npx serve .
+```
+
+---
+
+# Organizando os capítulos
+
+Toda a estrutura do livro é controlada pelo arquivo:
+
+```
+livro/index.json
+```
+
+Exemplo:
 
 ```json
 {
   "titulo": "Olhos do Silêncio",
-  "autor": "Autor",
-  "descricao": "Uma frase de apresentação do livro.",
+  "autor": "Harris Alexandre",
+  "descricao": "Romance de terror psicológico.",
   "capitulos": [
-    { "arquivo": "prologo.md", "titulo": "Prólogo", "ato": "Prólogo" },
-    { "arquivo": "cap01.md",   "titulo": "Capítulo 1 — A Demolição", "ato": "Ato I" }
+    {
+      "arquivo":"prologo.md",
+      "titulo":"Prólogo",
+      "ato":"Prólogo"
+    }
   ]
 }
 ```
 
-Para **adicionar um capítulo**, crie o arquivo `.md` na pasta `livro/` e adicione uma entrada no array `capitulos`. O campo `ato` agrupa capítulos no índice lateral — use o mesmo texto para capítulos do mesmo bloco.
+Para adicionar novos capítulos:
 
-Para **reordenar**, basta mudar a ordem das entradas no JSON.
+1. Crie um novo arquivo `.md`
+2. Adicione-o ao `index.json`
+3. Defina o título e o ato correspondente
 
----
-
-## Recursos do leitor
-
-| Recurso | Detalhe |
-|---|---|
-| **3 temas** | Escuro, Sépia, Claro |
-| **Tipografia** | 4 tamanhos de fonte, 3 espaçamentos, 3 larguras de coluna |
-| **Progresso** | Barra no topo + indicador de capítulo (ex: 7 de 34) |
-| **Tempo de leitura** | Estimativa por capítulo (~220 palavras/min) |
-| **Busca** | Pesquisa em texto completo em todos os capítulos |
-| **Marcador** | Salva a posição atual com um clique |
-| **Persistência** | Reabre exatamente no capítulo e posição onde parou |
-| **Teclado** | Setas, Page Up/Down, Home, End, Esc |
-| **Responsivo** | Desktop, tablet e celular |
-| **Performance** | Carrega só o capítulo atual; pré-carrega o anterior e o próximo |
+A ordem dos capítulos segue exatamente a ordem definida no JSON.
 
 ---
 
-## Markdown suportado
+# Markdown suportado
 
-O leitor interpreta em tempo real via [marked.js](https://marked.js.org/):
+O leitor utiliza **marked.js** para converter Markdown em HTML.
 
-```
-# Título principal
-## Subtítulo de capítulo
+São suportados:
 
-Parágrafo normal com **negrito** e *itálico*.
-
-> Citação em blockquote
-
----  (divisória)
-
-- lista
-- de itens
-
-![imagem](caminho/imagem.jpg)
-[link](https://exemplo.com)
-```
+* Títulos
+* Subtítulos
+* Negrito
+* Itálico
+* Citações
+* Listas
+* Separadores
+* Imagens
+* Links
 
 ---
 
-## Personalização rápida
+# Personalização
 
-**Mudar o livro:** edite `livro/index.json` com o novo título, autor e lista de capítulos.
+É possível alterar facilmente:
 
-**Mudar cores de destaque:** no `style.css`, a variável `--accent` (padrão `#8b1a1a`, vermelho vinho) é usada em todos os elementos de realce. Troque por qualquer cor.
+* título do livro;
+* autor;
+* descrição;
+* ordem dos capítulos;
+* cores da interface;
+* tipografia;
+* temas.
 
-**Mudar a fonte:** substitua a importação do Google Fonts no `index.html` e atualize `--font-body` e `--font-display` no topo do `style.css`.
+Tudo sem necessidade de frameworks ou processo de build.
 
 ---
 
-## Dependências externas
+# Tecnologias
 
-Apenas uma, carregada via CDN:
+* HTML5
+* CSS3
+* JavaScript Vanilla
+* Markdown
+* marked.js
 
-- **marked.js** `^9` — converte Markdown para HTML no navegador
+---
 
-Nenhum framework, nenhum build step, nenhuma instalação necessária.
+# Créditos
+
+## Autor
+
+**Harris Alexandre**
+
+Engenheiro de Software
+
+---
+
+## História
+
+**Olhos do Silêncio**
+
+Escrito por **Harris Alexandre**
+
+---
+
+## Desenvolvimento
+
+Leitor digital desenvolvido por **Harris Alexandre**
+
+---
+
+## Revisão
+
+**Harris Alexandre**
+
+---
+
+## Licença
+
+Este projeto foi desenvolvido para fins de leitura e distribuição da obra **Olhos do Silêncio**.
+
+Todos os direitos da história, personagens, universo e conteúdo pertencem ao autor.
+
+---
+
+> *"Existem lugares onde o silêncio não representa paz... representa algo esperando para ser ouvido."*
