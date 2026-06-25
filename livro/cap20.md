@@ -1,0 +1,27 @@
+## Capítulo 20 — O Último Editor Sóbrio
+
+Doutor Ives Pantano examinara, ao longo da carreira como patologista forense em Vasperna, mais corpos do que conseguia recordar com precisão individual — mas raramente se vira, como agora, pessoalmente envolvido numa investigação que ultrapassava completamente os limites convencionais de sua função profissional.
+
+Fora chamado, inicialmente, apenas para confirmar a causa da morte de Bento Calixto, meses antes — um procedimento de rotina que ele conduzira com a mesma objetividade clínica de sempre, concluindo, sem qualquer ambiguidade, que se tratava de um traumatismo craniano consistente com queda de altura, sem qualquer evidência de interferência externa anormal.
+
+Mas, conforme a "maldição da estátua vermelha" ganhava cada vez mais notoriedade pública, Ives se viu, gradualmente, examinando um número crescente de casos que populares e até alguns colegas menos rigorosos começavam a associar, com base em pouco mais do que coincidência temporal, ao mesmo fenômeno supostamente sobrenatural.
+
+— Doutor Pantano, o senhor não acha estranho? — perguntou-lhe, numa tarde, um assistente jovem e ainda impressionável, depois de examinarem juntos o terceiro caso da semana que alguém, na imprensa local, já tentava conectar à lenda crescente. — Três mortes em duas semanas, todas de pessoas que, de alguma forma, tinham relação com essa história da estátua.
+
+— Vasperna tem cento e dez mil habitantes — respondeu Ives, sem erguer os olhos do relatório que preenchia com sua caligrafia precisa e angular. — Em qualquer período de duas semanas, é estatisticamente esperado que algumas pessoas morram de causas naturais ou acidentais completamente desconectadas entre si. O que você está vendo não é um padrão sobrenatural. É o seu próprio cérebro procurando conexões que confirmam uma narrativa que você já ouviu falar demais.
+
+Era, naquele momento, exatamente o tipo de ceticismo rigoroso que tornara Ives Pantano uma figura respeitada e ocasionalmente impopular dentro da comunidade médica e jurídica de Vasperna — um homem que se orgulhava, acima de quase tudo, de jamais permitir que pânico coletivo ou pressão popular influenciassem suas conclusões profissionais.
+
+Mas havia, escondido sob essa fachada de ceticismo absoluto, um desconforto crescente que Ives raramente admitia, mesmo a si mesmo: ao longo dos meses seguintes, conforme examinava cada novo caso supostamente relacionado à estátua, ele começou a notar — com o mesmo rigor analítico que aplicava a qualquer outra investigação — um padrão estatístico real, embora completamente diferente daquele que a imprensa e a população em geral imaginavam.
+
+Não era um padrão de causa sobrenatural. Era um padrão de saúde pública mensurável e preocupante: um aumento real e documentável em casos de insônia crônica, ansiedade generalizada, transtornos de pânico e decisões impulsivas de risco entre a população que acompanhava de perto, com qualquer grau de proximidade pessoal ou emocional, a narrativa crescente da maldição.
+
+Ives reuniu, sem alarde público, dados de farmácias locais que registravam um aumento de quase quarenta por cento na venda de medicamentos para ansiedade e insônia ao longo do período em que a história da estátua dominara as conversas da cidade. Reuniu relatos informais de colegas médicos sobre um número crescente de pacientes relatando pesadelos recorrentes, mesmo aqueles que jamais tinham qualquer contato direto ou indireto com a peça física em si — pessoas que conheciam a história apenas através de conversas de terceiros, de comentários em redes sociais, de fofocas espalhadas em filas de supermercado.
+
+— Isso é fascinante e profundamente perturbador — disse ele a um colega de confiança, numa das raras ocasiões em que permitiu a si mesmo discutir abertamente suas próprias descobertas paralelas. — Não existe absolutamente nenhuma evidência de causa sobrenatural em nenhum dos casos que eu examinei. Mas existe uma evidência estatística muito clara de que o medo coletivo, por si só, está causando dano mensurável e real à saúde mental desta cidade.
+
+O dilema que Ives enfrentava, e que o atormentaria de forma crescente nos meses seguintes, era de natureza puramente ética: publicar abertamente aquelas descobertas significaria validar, de certa forma, a narrativa sensacionalista que tanto desprezava — confirmando publicamente que "algo estava acontecendo" em Vasperna, ainda que esse algo fosse psicológico e sociológico, não sobrenatural. Mas permanecer em silêncio significava deixar que o pânico continuasse a crescer sem qualquer contraponto científico capaz de, talvez, ajudar as pessoas a entenderem o verdadeiro mecanismo por trás do próprio sofrimento.
+
+Foi esse mesmo dilema, mais do que qualquer evidência concreta de fenômeno sobrenatural, que levaria Ives, mais adiante naquela história, a hesitar publicamente diante de perguntas diretas de Caio Morel — uma hesitação que o jornalista, já profundamente comprometido com sua narrativa preferida, interpretaria erroneamente como sinal de que até o cético mais rigoroso da cidade começava, finalmente, a duvidar da própria certeza racional.
+
+Não era isso, exatamente, que estava acontecendo dentro da mente cuidadosa e meticulosa de Ives Pantano. Mas seria, como tantas outras vezes ao longo daquela história, a interpretação mais conveniente e mais emocionalmente satisfatória — e, por isso mesmo, a interpretação que prevaleceria.
