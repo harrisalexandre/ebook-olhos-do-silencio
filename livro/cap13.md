@@ -16,46 +16,46 @@ Aldo hesitou, olhando para a própria caneca de chá frio sobre a mesa, antes de
 
 Mas Aldo, apesar da própria reticência, não conseguiu — ou não quis — resistir completamente ao convite de retomar uma investigação que, evidentemente, o perseguira por toda a vida adulta sem nunca ter sido devidamente concluída. Nas semanas seguintes, passou a colaborar com Caio de forma irregular e ambígua, fornecendo pistas suficientes para alimentar a curiosidade do jornalista, mas nunca o quadro completo que Caio tanto desejava.
 
-Foi Aldo quem, numa tarde particularmente produtiva, trouxe à mesa algo que nenhum outro pesquisador havia considerado até então: um mapeamento estatístico, rudimentar mas meticuloso, de todas as tragédias documentadas associadas à estátua ao longo dos últimos cento e cinquenta anos.
+Foi Aldo quem, numa tarde particularmente produtiva, trouxe à mesa algo que nenhum outro pesquisador havia considerado até então: um mapeamento, rudimentar mas meticuloso, de todas as tragédias documentadas associadas à estátua ao longo dos últimos cento e cinquenta anos.
 
-— Olha isso aqui — disse ele, estendendo sobre a mesa uma folha de papel cheia de anotações manuscritas, datas circuladas, linhas conectando eventos. — Eu reuni isso ao longo de décadas. Veja o padrão.
+— Olha isso aqui — disse ele, estendendo sobre a mesa uma folha de papel cheia de anotações manuscritas, datas circuladas, linhas conectando eventos. — Eu reuni isso ao longo de décadas.
 
-Caio se inclinou sobre o papel, e o que viu o deixou momentaneamente sem fôlego.
-
-As tragédias associadas à estátua, segundo o mapeamento de Aldo, não se distribuíam de forma uniforme ao longo do tempo. Concentravam-se, de forma marcante e consistente, em "ondas" — períodos intensos de poucos meses, separados por longos intervalos de anos, às vezes décadas, em que absolutamente nada de extraordinário parecia acontecer.
+Caio se inclinou sobre o papel. As datas formavam aglomerados — pequenos arquipélagos de tragédia separados por longos trechos de mar vazio, anos inteiros sem nenhuma menção, nenhum incidente, nenhuma morte digna de registro.
 
 — Isso prova que existe um ciclo — disse Caio, com os olhos brilhando de excitação investigativa. — Algum tipo de padrão cósmico, talvez ligado a—
 
-— Olha as datas com mais cuidado — interrompeu Aldo, sem se deixar contagiar pelo entusiasmo do jornalista mais jovem. — Não as datas das tragédias. As datas em que a história da estátua foi contada, divulgada, espalhada.
+— Talvez — disse Aldo, e havia algo na maneira como ele cortou a frase pela metade, sem completar nem negar, que deixou Caio momentaneamente desorientado. — Ou talvez não. Eu reúno datas, jornalista. Não reúno explicações. Faz quarenta anos que tento decidir qual das duas colunas dessa folha é a causa e qual é a consequência, e ainda não cheguei a uma resposta que eu confie o suficiente para te dar.
 
-Caio examinou novamente o papel, e a constatação, quando finalmente chegou, atingiu-o com a força física de um golpe inesperado.
+— Mas o senhor deve ter uma teoria.
 
-Cada "onda" de tragédias coincidia, quase perfeitamente, com um período anterior de intensa circulação de histórias sobre a estátua: a publicação de um artigo de jornal antigo, a circulação local de um boato específico, a reedição, em 1958, de um panfleto religioso que mencionava "a figura vermelha amaldiçoada".
+Aldo olhou para ele por um tempo longo demais antes de responder.
 
-E havia mais — um detalhe que Aldo destacou com particular ênfase, observando atentamente a reação de Caio:
+— Tenho várias. Nenhuma me deixa dormir melhor que as outras.
 
-— Em 1967, a estátua passou quatro anos inteiros trancada num cofre bancário, em outra cidade, longe de qualquer pessoa, qualquer contato físico, qualquer possibilidade real de causar dano direto a alguém. — Aldo fez uma pausa deliberada. — E ainda assim, durante esse período inteiro, as mortes continuaram acontecendo entre as pessoas que ainda falavam dela, que ainda discutiam a lenda em cartas e conversas, mesmo sem a peça física estar presente em lugar nenhum perto deles.
+Foi então que ele apontou, com o dedo trêmulo, para um intervalo específico do mapa de datas — um vazio de quatro anos, entre 1967 e 1971, sem uma única linha, sem um único nome.
 
-Caio sentiu um frio diferente subir pela espinha — não o frio excitante e quase prazeroso de uma descoberta sobrenatural confirmada, mas algo mais perturbador, mais difícil de processar.
+— Nesse período, a estátua esteve trancada num cofre bancário, em outra cidade. Ninguém tocou nela. Ninguém sequer sabia exatamente onde ela estava.
 
-— Isso significa... — começou ele, lentamente, quase contra a própria vontade. — Isso significa que não é a presença física da estátua que causa as tragédias.
+— E mesmo assim?
 
-— Exatamente — disse Aldo, e havia em sua voz um cansaço profundo, o cansaço de um homem que reunira aquela evidência havia décadas e nunca soubera exatamente o que fazer com ela. — É a história. É a crença. É o medo se espalhando de boca em boca, de mente em mente, encontrando sempre novas vítimas dispostas a interpretar qualquer infortúnio comum como prova de uma maldição.
+— Mesmo assim, nada — disse Aldo. — Quatro anos de silêncio absoluto. — Ele recolheu o papel, dobrando-o de volta com um cuidado que parecia querer protegê-lo de alguma coisa. — Tira disso a conclusão que quiser. Eu já tirei várias, em quarenta anos, e troquei de conclusão tantas vezes que parei de confiar na própria certeza.
 
-Era, Caio reconheceria mais tarde, o momento exato em que toda a verdade da história lhe fora oferecida, de forma clara e estatisticamente irrefutável, por um homem que dedicara a própria vida a reunir aquelas evidências.
+Caio sentiu um frio diferente subir pela espinha — não o frio excitante e quase prazeroso de uma descoberta sobrenatural confirmada, mas algo mais incômodo, mais difícil de nomear: a sensação de estar diante de um homem que sabia mais do que estava dizendo, e que tinha, por razões ainda obscuras, decidido fazer daquele "mais" um segredo cuidadosamente guardado.
 
-Mas Caio, àquela altura já tão profundamente investido emocional e profissionalmente na narrativa da maldição, encontrou — com a mesma facilidade desesperada com que tantos seres humanos encontram, diante de evidências inconvenientes — uma forma de reinterpretar aquele padrão estatístico de modo a preservar suas crenças anteriores.
+— O senhor está escondendo alguma coisa de mim — disse Caio, sem rodeios.
 
-— Então a maldição se alimenta de atenção — disse ele, os olhos brilhando novamente, agora com uma nova teoria que, paradoxalmente, tornava a explicação ainda mais sobrenatural em vez de menos. — Quanto mais as pessoas falam dela, mais poder ela ganha. Isso é ainda mais fascinante do que eu imaginava.
+Aldo não negou. Também não confirmou. Apenas guardou o mapa de datas dentro de uma pasta de couro gasto, com o tipo de gesto final que encerra uma conversa antes que ela vá além do que a pessoa está disposta a permitir.
 
-Aldo o observou por um longo momento, em silêncio, e algo em seu rosto enrugado pareceu, por um instante, transmitir uma tristeza profunda — a tristeza específica de quem reconhece, num espelho distante de décadas, o próprio erro mais antigo se repetindo diante dos olhos, sem que nenhuma quantidade de evidência ou advertência fosse suficiente para impedi-lo.
+— Você devia parar essa investigação, jovem — disse ele, finalmente, numa voz mais baixa do que antes. — Antes que ela faça com você o que já fez com tantos outros.
 
-— Você devia parar essa investigação, jovem — disse Aldo, finalmente, numa voz mais baixa do que antes. — Antes que ela faça com você o que já fez com tantos outros.
-
-— Você está dizendo isso porque acredita na maldição, ou porque não acredita? — perguntou Caio, genuinamente curioso pela primeira vez sobre a posição real do velho historiador.
+— Que outros?
 
 Aldo sorriu, um sorriso fino e cansado que não respondia exatamente à pergunta.
 
-— Eu já vivi tempo suficiente pra saber que essa é a pergunta errada — disse ele. — A pergunta certa é: o que você vai deixar de fazer, de viver, de amar, enquanto procura uma resposta que talvez nunca exista do jeito que você espera?
+— Você está fazendo a pergunta errada — disse ele. — A pergunta certa é: o que você vai deixar de fazer, de viver, de amar, enquanto procura uma resposta que talvez nunca exista do jeito que você espera?
 
-Caio não tinha resposta para aquilo. Apenas guardou o mapeamento estatístico de Aldo cuidadosamente em sua pasta, prometendo a si mesmo que voltaria a examiná-lo com mais profundidade — uma promessa que, como tantas outras feitas ao longo daquela investigação, seria sistematicamente adiada em favor da próxima pista, do próximo documento, da próxima possibilidade de finalmente provar que tudo aquilo tinha valido a pena.
+Caio não tinha resposta para aquilo. Só sabia, ao sair da casa desorganizada de Aldo Querino naquela tarde, que tinha encontrado, finalmente, alguém que conhecia mais sobre a estátua do que qualquer documento que examinara até então — e que esse mesmo alguém parecia decidido, por razões que Caio ainda não conseguia adivinhar, a não revelar tudo de uma vez.
+
+Era, ele anotaria naquela noite, exatamente o tipo de mistério dentro do mistério que tornava uma investigação irresistível.
+
+Não sabia, ainda, o quanto aquela palavra — *irresistível* — já tinha deixado de ser uma escolha sua há muito tempo.

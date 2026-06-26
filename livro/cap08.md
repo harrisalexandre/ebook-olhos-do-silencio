@@ -16,15 +16,9 @@ Mas então, na semana seguinte, em outra noite igualmente exaustiva, Caio notou 
 
 Ele repetiu o experimento três noites seguidas, sempre sob as mesmas condições controladas de luminosidade, e cada vez anotava, com crescente fascínio, que o grau de dilatação parecia aumentar progressivamente.
 
-*Ela está reagindo a mim*, escreveu Caio, e a frase, lida em retrospecto, carregaria mais tarde um peso irônico que ele não conseguia perceber no momento em que a escrevia. *Quanto mais tempo passo perto dela, mais ela reage. Será que existe alguma forma de... reconhecimento?*
+*Ela está reagindo a mim*, escreveu Caio, e a frase, lida em retrospecto, carregaria mais tarde um peso que ele não conseguia perceber no momento em que a escrevia. *Quanto mais tempo passo perto dela, mais ela reage. Será que existe alguma forma de... reconhecimento?*
 
-A explicação que Caio jamais considerou, apesar de toda sua formação investigativa, apesar de toda sua suposta capacidade analítica, era dolorosamente mais simples e mais humana do que qualquer reconhecimento sobrenatural.
-
-As pupilas humanas — e Caio, àquela altura, já passava tantas horas observando os olhos da estátua de tão perto que seu próprio reflexo aparecia constantemente sobre a superfície úmida daquelas esclera — também dilatam sob condições de exaustão extrema, privação de sono prolongada e estresse psicológico acumulado. E era exatamente isso, semana após semana, que Caio vinha acumulando: noites cada vez mais curtas, refeições cada vez mais irregulares, um nível de ansiedade que crescia em paralelo direto com o tempo que ele dedicava à investigação.
-
-O que Caio estava medindo, sem perceber, não era uma reação progressiva da estátua à sua presença.
-
-Era seu próprio estado físico e mental, refletido — literalmente, na superfície curva e brilhante daquelas pupilas artificiais — de volta para ele mesmo, noite após noite, numa espiral que ele interpretava como evidência externa de algo extraordinário, quando na verdade era apenas o espelho mais antigo e mais simples que existe: o cansaço de um homem que já não sabia mais distinguir entre observar e ser observado.
+Seu próprio reflexo, àquela altura, aparecia constantemente sobre a superfície úmida daquelas esclera — tão perto ele já se inclinava, noite após noite, para examinar cada detalhe.
 
 Mirana, que passava cada vez menos tempo dentro daquele escritório improvisado — não por proibição expressa, mas por uma distância silenciosa que crescia naturalmente entre os dois —, notou, numa das raras vezes em que entrou para chamá-lo para o jantar, a maneira como o marido parecia fisicamente diferente sob aquela luz fraca de abajur.
 
@@ -34,4 +28,4 @@ Caio riu, sem perceber a ironia completa da própria resposta.
 
 — É o cansaço — disse ele, sem erguer os olhos do caderno onde acabara de anotar, com entusiasmo renovado, mais uma "evidência" da reatividade progressiva da estátua. — Volto a dormir direito quando isso aqui se resolver.
 
-Não dormiria direito de novo por muito tempo. E, quanto menos dormisse, mais convencido ficaria de que os olhos da pequena escultura vermelha estavam, de fato, vivos — vivos da mesma forma frágil e humana que ele próprio, sem saber, estava deixando de ser.
+Não dormiria direito de novo por muito tempo.

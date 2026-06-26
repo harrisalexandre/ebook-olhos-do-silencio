@@ -22,12 +22,10 @@ Caio anotou tudo isso no caderno, palavra por palavra, com a honestidade metodol
 
 Mas, naquela mesma noite, ao reler suas próprias anotações, percebeu — ou talvez quisesse perceber — algo que o relatório técnico do bombeiro não conseguia explicar de forma totalmente satisfatória: por que justamente aquela ala, justamente aquela noite, justamente oito dias depois da chegada da estátua?
 
-A resposta racional, óbvia e estatisticamente banal, era que fiação antiga e deteriorada eventualmente falha, e que a coincidência temporal entre a chegada da estátua e o incêndio era exatamente isso: uma coincidência, do tipo que acontece centenas de vezes ao redor do mundo todos os dias, sem que ninguém jamais perceba ou registre, porque não havia, na maioria desses casos, nenhuma narrativa emocionante esperando para se conectar a elas.
-
-Mas Caio, àquela altura, já não estava mais procurando a explicação mais simples. Estava procurando, sem admitir isso a si mesmo, a explicação que validaria todos os meses que já investira naquela investigação, todas as noites de sono perdido, todo o afastamento crescente de Mirana, todo aquele caderno cada vez mais espesso de anotações que, juntas, formavam não exatamente uma prova de nada sobrenatural, mas um retrato cada vez mais nítido de um homem que precisava, desesperadamente, que aquilo tudo significasse algo maior do que realmente significava.
+Mas Caio, àquela altura, já não estava mais procurando a explicação mais simples. Estava procurando, sem admitir isso a si mesmo, a explicação que validaria todos os meses que já investira naquela investigação, todas as noites de sono perdido, todo o afastamento crescente de Mirana, todo aquele caderno cada vez mais espesso de anotações.
 
 Escreveu, naquela noite, uma frase que leria e relera nos meses seguintes, sempre com um misto crescente de orgulho investigativo e, no fundo, um medo que ele ainda não sabia nomear:
 
 *"A estátua não precisa fazer nada. Ela só precisa estar presente. O resto, as pessoas fazem por ela."*
 
-Era, mais uma vez, uma observação dolorosamente precisa — e mais uma vez Caio a leu como se fosse evidência de um poder oculto, quando na verdade descrevia, com exatidão quase perfeita, o mecanismo puramente humano que ele próprio estava ajudando a alimentar.
+Releria aquela frase muitas vezes nos meses seguintes, sempre com o mesmo misto de orgulho investigativo e um desconforto que não sabia nomear — sem nunca se perguntar por que, exatamente, ela continuava parecendo verdadeira mesmo quando ele tentava lê-la como prova de outra coisa.

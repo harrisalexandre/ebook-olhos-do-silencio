@@ -36,10 +36,6 @@ Aldo assentiu, lentamente.
 
 — Acreditávamos que esconder os finais das histórias impediria que mais pessoas se obcecassem com elas, do jeito que você está obcecado agora. — Ele fez uma pausa, observando Caio com uma mistura de pena e frustração antiga. — Veja a ironia, jornalista. Tentamos por gerações apagar o fogo, e só conseguimos transformá-lo num mistério ainda mais irresistível. O silêncio, às vezes, alimenta mais a curiosidade do que a própria revelação completa jamais alimentaria.
 
-Era uma confissão que deveria, por toda lógica investigativa razoável, ter encerrado ali mesmo qualquer crença remanescente de Caio numa explicação sobrenatural genuína. A Ordem do Véu Quieto não escondia segredos cósmicos terríveis — escondia apenas o próprio medo coletivo, perpetuado através de gerações de silêncio voluntário, exatamente como Aldo descrevera com tanta clareza.
-
 Mas Caio, ao deixar a casa do velho historiador naquela tarde, sentiu, paradoxalmente, sua obsessão se intensificar ainda mais — porque agora havia uma irmandade secreta inteira, um mistério dentro do mistério, uma nova camada de investigação esperando para ser desvendada.
 
-*Eles esconderam alguma coisa*, escreveu Caio em seu caderno naquela noite, ignorando deliberadamente, ou talvez simplesmente incapaz de processar, a explicação muito mais simples que o próprio Aldo lhe oferecera poucas horas antes. *A pergunta é: o que mais eles sabem que ainda não me contaram?*
-
-A resposta verdadeira — que Aldo já lhe dissera, em voz alta, com toda a honestidade que conseguira reunir — era simplesmente: nada. Nunca houvera nada além do próprio medo, repetido e ampliado, gerações após gerações, por pessoas bem-intencionadas demais para reconhecer que estavam, elas mesmas, alimentando exatamente aquilo que temiam combater.
+*Eles esconderam alguma coisa*, escreveu Caio em seu caderno naquela noite. *A pergunta é: o que mais eles sabem que ainda não me contaram?*

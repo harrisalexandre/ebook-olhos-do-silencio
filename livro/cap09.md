@@ -32,4 +32,4 @@ A estátua, evidentemente, não respondeu. Não se moveu. Não fez absolutamente
 
 Mas, ao se levantar para apagar as luzes e seguir para o próprio quarto, Nora sentiu — e jamais saberia dizer, depois, se fora apenas imaginação ou algo real — um arrepio frio subindo pela nuca, a sensação física e incômoda de estar sendo observada por algo que a conhecia bem demais.
 
-Era, naturalmente, apenas o próprio medo dela, refletido de volta. Mas Nora Vey, como tantos outros antes dela e tantos outros que viriam depois, não estava mais em condições de fazer essa distinção com clareza.
+Nora Vey, como tantos outros antes dela e tantos outros que viriam depois, não estava mais em condições de saber dizer com certeza de onde vinha aquele frio.

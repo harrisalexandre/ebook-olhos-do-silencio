@@ -26,6 +26,4 @@ Era a primeira referência concreta que Caio encontrava àquilo que, mais tarde,
 
 Mas, naquela tarde específica, ainda absorto na alegria de recuperar a posse física da estátua, Caio guardou a caixa inteira no porta-malas do carro sem examinar seu conteúdo com a atenção que merecia, prometendo a si mesmo que revisaria tudo "assim que tivesse tempo" — a mesma promessa adiada, ironicamente, que Nora Vey fizera a si mesma sobre a reforma elétrica que quase lhe custara a casa inteira.
 
-Algumas pistas, na vida real, nunca chegam tarde demais por culpa de qualquer força misteriosa.
-
-Chegam tarde simplesmente porque os seres humanos, ocupados demais com a urgência do presente, raramente têm a disciplina de examinar com cuidado o que já têm em mãos.
+Algumas pistas não chegam tarde por culpa de nenhuma força misteriosa. Chegam tarde porque ninguém tem tempo de sobra para examinar com cuidado o que já tem em mãos.
