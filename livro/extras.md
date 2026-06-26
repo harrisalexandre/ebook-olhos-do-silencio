@@ -9,7 +9,7 @@
 
 <div align="center">
 
-*A ciade de Vasperna, palco dos acontecimentos de Olhos do Silêncio.*
+*A cidade de Vasperna, palco dos acontecimentos de Olhos do Silêncio.*
 
 </div>
 

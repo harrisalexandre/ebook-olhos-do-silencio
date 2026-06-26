@@ -1100,3 +1100,43 @@ body {
     padding: 20px 18px 28px;
   }
 }
+
+.zoom-image{
+    display:block;
+    width:min(100%, 760px);
+    margin:0 auto;
+    border-radius:12px;
+    cursor:zoom-in;
+    transition:.25s;
+    box-shadow:0 8px 30px rgba(0,0,0,.25);
+}
+
+.zoom-image:hover{
+    transform:scale(1.02);
+}
+
+.image-modal{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.92);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    opacity:0;
+    visibility:hidden;
+    transition:.25s;
+    z-index:99999;
+    cursor:zoom-out;
+}
+
+.image-modal.show{
+    opacity:1;
+    visibility:visible;
+}
+
+.image-modal img{
+    max-width:95vw;
+    max-height:95vh;
+    border-radius:8px;
+    box-shadow:0 20px 60px rgba(0,0,0,.5);
+}

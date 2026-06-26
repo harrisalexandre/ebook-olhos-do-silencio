@@ -661,3 +661,21 @@ async function init() {
 
 // Start
 document.addEventListener('DOMContentLoaded', init);
+
+const modal = document.getElementById("imageModal");
+const modalImage = document.getElementById("modalImage");
+
+function openImage(src){
+    modalImage.src = src;
+    modal.classList.add("show");
+    document.body.style.overflow = "hidden";
+}
+
+function closeImage(){
+    modal.classList.remove("show");
+    document.body.style.overflow = "";
+}
+
+document.addEventListener("keydown", e=>{
+    if(e.key==="Escape") closeImage();
+});
