@@ -1,6 +1,6 @@
 ## PRÓLOGO — O Primeiro Dono
 
-*1874*
+*Ano de 1874*
 
 O padre Hilário Sandes não era um homem de imaginação fértil. Os bispos que o conheciam diziam, com uma mistura de afeto e impaciência, que Hilário era capaz de atravessar uma noite de tempestade sem erguer os olhos do breviário. Era esse o tipo de homem — seco, metódico, desconfiado de qualquer coisa que se parecesse com milagre — que escreveu, na noite de 14 de setembro, a primeira linha que mencionava a estátua.
 
@@ -14,7 +14,7 @@ Nas semanas seguintes, o diário de Hilário muda de tom. As frases encurtam. A 
 
 *"Sei que parece loucura escrever isso. Mas vi. Vi as pupilas se estreitarem quando aproximei a vela. Chamei o sacristão. Ele também viu. Ficamos ali, os dois, em silêncio, como dois homens que acabaram de testemunhar algo que não cabe em palavra de catecismo."*
 
-*"Three dias depois, a esposa do sacristão morreu de febre. Ele diz que foi ela. Eu disse a ele que não fosse tolo. Doenças não escolhem por capricho. Mas confesso, Deus me perdoe, que ao escrever isso senti um frio que não vinha do outono."*
+*"Três dias depois, a esposa do sacristão morreu de febre. Ele diz que foi ela. Eu disse a ele que não fosse tolo. Doenças não escolhem por capricho. Mas confesso, Deus me perdoe, que ao escrever isso senti um frio que não vinha do outono."*
 
 A partir daí, o diário de Hilário se torna o relato de uma cidade pequena que começa a apodrecer por dentro. Um incêndio na casa de um lavrador que, dias antes, dissera em público que a estátua deveria ser destruída a marteladas. A morte súbita de uma criança que brincara, sem saber, na sacristia onde a peça fora guardada. Um suicídio. Duas brigas que terminaram em sangue. Uma vila inteira, em poucos meses, transformada numa colcha de luto e desconfiança mútua.
 
