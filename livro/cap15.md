@@ -32,4 +32,4 @@ Foi só ao retornarem ao porto, já mais calmos, que Caio começou a sentir as p
 
 *A estátua desapareceu*, escreveu ele naquela noite, com uma mistura estranha de alívio e perda que o deixou inquieto até as primeiras horas da madrugada. *Será que finalmente acabou?*
 
-Não tinha acabado. Estava, na verdade, apenas começando a entrar numa nova e mais perigosa fase — uma fase em que a ausência física da peça, paradoxalmente, alimentaria ainda mais a obsessão coletiva de toda Vasperna, exatamente como o padrão estatístico de Aldo Querino já havia previsto, semanas antes, sem que ninguém tivesse prestado a devida atenção.
+Não tinha acabado. Estava, na verdade, apenas começando a entrar numa nova e mais perigosa fase.

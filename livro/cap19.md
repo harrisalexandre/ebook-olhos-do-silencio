@@ -30,7 +30,7 @@ Caio sentiu um desconforto crescente, pressentindo a direção que a conversa es
 
 — Isso é diferente, mãe.
 
-— É exatamente igual — disse ela, repetindo, sem saber, quase as mesmas palavras que Mirana usara meses antes, numa coincidência que revelava, mais do que qualquer mistério sobrenatural, o quanto certos padrões humanos se repetem de forma previsível através de gerações e relacionamentos diferentes. — Seu pai achava que o mar "cobrava dívidas". Eu mesma disse isso a você quando você era criança, porque era mais fácil do que admitir a verdade.
+— É exatamente igual — disse ela, repetindo, sem saber, quase as mesmas palavras que Mirana usara meses antes. — Seu pai achava que o mar "cobrava dívidas". Eu mesma disse isso a você quando você era criança, porque era mais fácil do que admitir a verdade.
 
 — Que verdade?
 
@@ -45,5 +45,3 @@ Caio sentiu o próprio mundo, por um instante, perder ligeiramente o equilíbrio
 — Porque era mais fácil pra mim também — disse Rute, com uma honestidade dolorosa que parecia custar-lhe um esforço físico real. — E porque, Caio, eu via você crescendo com tanta raiva de explicações sobrenaturais, tanta certeza de que precisava existir sempre uma causa lógica e investigável pra tudo... e eu pensava, ingenuamente, que isso te protegeria de repetir o padrão do seu pai. — Ela olhou para ele com uma tristeza profunda, quase física. — Eu estava errada, não estava? Você só trocou uma forma de fuga por outra. Meu marido fugiu pra dentro de uma garrafa e de uma explicação confortável sobre o mar. Você está fugindo pra dentro de uma investigação e de uma explicação confortável sobre uma estátua. No fim, é a mesma coisa, meu filho. É sempre mais fácil acreditar numa força maior do que admitir que a gente é só... humano, falho, e às vezes profundamente sozinho com as próprias escolhas ruins.
 
 Caio deixou a casa da mãe naquela tarde com uma sensação de desorientação que persistiria por dias — não exatamente porque tivesse aprendido algo definitivamente novo sobre a estátua, mas porque, pela primeira vez de forma tão direta e dolorosa, alguém havia traçado, em voz alta, a linha exata que conectava o trauma fundador de sua infância à obsessão presente que estava destruindo sua vida adulta.
-
-Era, mais uma vez, uma pista — não sobre a estátua, mas sobre o próprio Caio — entregue com clareza absoluta, num momento em que ele ainda teria tempo, embora cada vez menos, de fazer algo diferente com aquela informação.

@@ -28,10 +28,6 @@ Caio ergueu os olhos do documento, atordoado.
 
 — Sim — admitiu Aldo, com um peso de culpa visível em cada palavra. — Porque, ironicamente, achávamos que revelar a verdade publicamente seria pior do que manter o segredo. Tínhamos medo de que, sabendo que não existia maldição alguma, as pessoas simplesmente parassem de temer a peça e a tratassem com descuido suficiente para acabar se ferindo de formas completamente banais e evitáveis — uma criança brincando com algo afiado nas mãos da escultura, alguém manuseando-a sem cuidado e quebrando algo, sei lá. E, no fundo... — ele hesitou, antes de completar a confissão mais difícil. — No fundo, acho que também tínhamos medo de admitir, publicamente, que dedicáramos a vida inteira a proteger um segredo que nunca existira de verdade. Era mais fácil continuar acreditando que existia algo importante sendo guardado do que aceitar que tínhamos perpetuado, por gerações, nada mais do que medo alimentando o próprio medo.
 
-O documento que Aldo entregara a Caio era, em todos os sentidos relevantes, a resposta completa e definitiva ao mistério inteiro — a confirmação textual, formal e investigada com rigor genuíno por uma instituição que dedicara décadas exatamente àquela pergunta, de que a estátua nunca fora, em nenhum momento de sua longa história documentada, qualquer coisa além de uma escultura com olhos peculiares e uma reputação cada vez mais inflada pelo próprio medo coletivo que ela inspirava.
-
-Era exatamente o tipo de revelação que, entregue a um investigador genuinamente racional e emocionalmente equilibrado, encerraria ali mesmo qualquer investigação remanescente.
-
 Mas Caio, ao sair da casa de Aldo Querino naquela tarde, levando consigo uma cópia do documento de 1971, sentiu — para seu próprio horror silencioso, reconhecido apenas em algum canto remoto e envergonhado de sua mente — uma decepção mais profunda do que qualquer alívio.
 
 *Se isso é verdade*, pensou ele, ao dirigir de volta para o apartamento vazio, *então tudo que eu fiz nos últimos meses não significou absolutamente nada.*

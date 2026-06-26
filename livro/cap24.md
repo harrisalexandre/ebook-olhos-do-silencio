@@ -16,16 +16,12 @@ Nos dias seguintes, consumido por uma culpa que ameaçava esmagá-lo completamen
 
 — Foi aquela coisa — disse ele a Caio, numa conversa breve e dolorosa, poucos dias depois do funeral, os olhos vermelhos de um homem que não dormia adequadamente desde a tragédia. — Eu sei que parece loucura, mas eu sinto isso, Caio. Eu ajudei a divulgar aquela história, eu lucrei com aquele medo, e agora ela levou meu filho como... como um tipo de pagamento.
 
-Era, evidentemente, uma interpretação que ignorava completamente a explicação muito mais simples, mais dolorosa e mais real: que Teodoro perdera o próprio filho não por qualquer força sobrenatural vingativa, mas pela mesma negligência involuntária e silenciosa que tantos pais bem-intencionados cometem quando mergulham, por razões legítimas ou não, dentro das próprias obrigações profissionais, deixando de notar os sinais de sofrimento que pessoas próximas, especialmente as mais jovens e mais vulneráveis, frequentemente escondem com mais habilidade do que qualquer adulto gostaria de admitir.
-
 Caio, ouvindo aquela confissão dolorosa do antigo mentor, sentiu — pela primeira vez em meses — um lampejo de clareza genuína que ultrapassava qualquer interesse investigativo pessoal.
 
 — Teodoro — disse ele, com uma gentileza que já não usava havia muito tempo, nem com os outros, nem consigo mesmo. — Isso não foi a estátua. Você sabe disso. Foi... foi a vida, foi o tempo que passou sem perceber, foi tudo que a gente não consegue controlar e que dói demais admitir que a gente não controlava.
 
-Era, ironicamente, exatamente a mesma lição que Mirana tentara, meses antes, ensinar ao próprio Caio — agora repetida por ele mesmo, diante do sofrimento alheio, com uma clareza que ele próprio era incapaz de aplicar à sua própria vida.
+Teodoro, no entanto, recusou-se a aceitar aquela interpretação racional, agarrando-se, em vez disso, à narrativa da maldição como a única forma disponível de dar algum sentido àquela perda devastadora.
 
-Teodoro, no entanto, recusou-se a aceitar aquela interpretação racional, agarrando-se, em vez disso, à narrativa da maldição como a única forma disponível de dar algum sentido àquela perda devastadora — um padrão que se repetiria, com pequenas variações, em praticamente todos os personagens daquela história inteira, incluindo, de forma trágica e definitiva, o próprio Caio Morel, nos capítulos finais que se aproximavam rapidamente.
-
-A tragédia de Teodoro Brass deveria ter sido, para qualquer observador externo equilibrado, o ponto de virada definitivo — o momento exato em que toda Vasperna finalmente reconheceria, com clareza dolorosa, que o verdadeiro perigo nunca estivera na pequena estátua vermelha, mas na disposição coletiva e cada vez mais desesperada de culpar qualquer força externa, sobrenatural ou não, em vez de enfrentar diretamente as próprias falhas, negligências e fragilidades profundamente humanas.
+A tragédia de Teodoro Brass deveria ter sido, para qualquer observador externo equilibrado, o ponto de virada definitivo.
 
 Mas não foi. A cidade, como tantas vezes antes, escolheu a explicação que doía menos.

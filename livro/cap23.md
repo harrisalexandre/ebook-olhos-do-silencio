@@ -1,4 +1,4 @@
-## Capítulo 23 — O Padrão Estatístico Central
+## Capítulo 23 — A Tabela
 
 Foi numa tentativa final de encontrar algum sentido investigativo legítimo em meio à própria deterioração que Caio decidiu, semanas depois do episódio do maçarico, organizar de forma sistemática todos os casos de "ferimento direto" causados, supostamente, pela estátua ao longo de toda a história documentada — não as tragédias indiretas, alimentadas por medo e decisões impulsivas, mas os raros episódios em que alguém alegava ter sido fisicamente ferido durante contato direto com a própria peça.
 
@@ -10,9 +10,7 @@ Havia o caso de uma criança em 1933, que sofrera um corte superficial ao brinca
 
 E havia, mais perturbador ainda para os próprios objetivos investigativos de Caio, o caso registrado por Madre Vidalina em uma das cartas mais antigas: um operário, contratado especificamente para limpar e transportar a peça décadas antes, que a manuseara durante horas inteiras, sem qualquer ferimento, sem qualquer incidente — simplesmente porque, segundo o próprio relato da freira, "ele jamais ouvira falar de qualquer lenda associada àquele objeto, e por isso a tratou com a mesma displicência prática que trataria qualquer outra peça de decoração antiga".
 
-O padrão, quando finalmente organizado e visualizado lado a lado, era impossível de ignorar mesmo para a mente cada vez mais comprometida de Caio: nenhum ferimento físico documentado, em mais de cento e cinquenta anos de história registrada, jamais acontecera a alguém que tocasse a estátua sem conhecimento prévio da lenda. Todos os feridos, sem excessão, já tinham ouvido a história antes de qualquer contato físico direto — e era exatamente esse conhecimento prévio, essa ansiedade antecipada, que produzia as condições perfeitas para descuido, pressa e nervosismo capazes de causar pequenos acidentes inteiramente banais.
-
-Era, em outras palavras, exatamente o mecanismo inverso de qualquer maldição genuína: não era a peça que causava dano a quem a tocava, mas o próprio medo prévio que tornava as pessoas fisicamente mais propensas a se ferir.
+O padrão, quando finalmente organizado e visualizado lado a lado, era impossível de ignorar mesmo para a mente cada vez mais comprometida de Caio.
 
 Caio sentou-se diante daquela tabela organizada por horas, durante uma madrugada inteira, sentindo algo que ele reconheceria, em retrospecto, como o momento mais próximo que chegara, até então, de uma reconciliação completa e definitiva com a verdade.
 

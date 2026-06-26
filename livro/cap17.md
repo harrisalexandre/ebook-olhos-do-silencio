@@ -44,4 +44,4 @@ Sozinho, no apartamento agora silencioso, Caio voltou a se sentar diante da est�
 
 — O que você quer de mim? — perguntou ele, em voz alta, para o cômodo vazio, sem esperar — sem realmente esperar, ainda — qualquer resposta.
 
-A estátua, naturalmente, permaneceu em silêncio absoluto, como sempre permanecera, como sempre permaneceria, até o momento final e inesperado em que finalmente romperia aquele silêncio de séculos — mas não, ainda, naquela noite, e não para dizer o que Caio, em sua desesperança crescente, mais temia e mais desejava escutar.
+A estátua, naturalmente, permaneceu em silêncio absoluto, como sempre permanecera — e não disse, ainda, naquela noite, o que Caio, em sua desesperança crescente, mais temia e mais desejava escutar.

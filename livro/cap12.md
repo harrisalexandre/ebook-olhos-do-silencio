@@ -1,8 +1,8 @@
 ## Capítulo 12 — A Advertência de Mirana
 
-Mirana Taschel tinha aprendido, ainda adolescente, uma lição que carregaria, sem saber, por toda a vida adulta: que esperar pacientemente o fim de algo inevitável era mais suportável do que lutar contra ele.
+Mirana Taschel tinha aprendido, ainda muito jovem, uma lição que carregaria, sem saber, por toda a vida adulta: que esperar pacientemente o fim de algo inevitável era mais suportável do que lutar contra ele.
 
-Tinha quinze anos quando a irmã mais nova, Yvete, recebera o diagnóstico de uma doença degenerativa rara, daquelas que os médicos descrevem com eufemismos cuidadosos sobre "qualidade de vida" em vez de cura. Mirana vira a própria mãe se debater nos primeiros meses — médicos, tratamentos experimentais, viagens desesperadas a especialistas em outras cidades — até que, gradualmente, a luta cedera lugar a uma espécie de aceitação resignada, um modo de viver inteiramente organizado em torno da espera de um fim que ninguém mais tentava evitar, apenas tolerar com a maior dignidade possível.
+Tinha dezenove anos quando a irmã mais nova, Yvete, recebera o diagnóstico de uma doença degenerativa rara, daquelas que os médicos descrevem com eufemismos cuidadosos sobre "qualidade de vida" em vez de cura. Mirana vira a própria mãe se debater nos primeiros meses — médicos, tratamentos experimentais, viagens desesperadas a especialistas em outras cidades — até que, gradualmente, a luta cedera lugar a uma espécie de aceitação resignada, um modo de viver inteiramente organizado em torno da espera de um fim que ninguém mais tentava evitar, apenas tolerar com a maior dignidade possível.
 
 Yvete morrera aos dezessete anos. Mirana, no funeral, jurara a si mesma que jamais permitiria que sua própria vida adulta se organizasse, daquela mesma forma resignada, em torno da espera silenciosa de uma tragédia anunciada.
 
@@ -26,7 +26,7 @@ Sentou-se na cadeira em frente à mesa dele, a mesma cadeira onde, meses antes, 
 
 Caio não respondeu, apenas esperou, com uma mistura de defensiva e curiosidade genuína.
 
-— Eu vejo o meu pai — disse Mirana, e a voz dela tremeu ligeiramente na primeira vez em que mencionava aquilo em voz alta, em quase vinte anos de casamento. — Você nunca conheceu ele de verdade, porque ele já tinha desistido de tudo muito antes de eu te apresentar pra família. Mas era assim que começava. Não com loucura. Com convicção. Ele tinha certeza absoluta de que existia uma explicação maior pra tudo de ruim que tinha acontecido com a gente — minha mãe doente, meu emprego perdido, o que fosse. E quanto mais ele procurava essa explicação maior, menos ele conseguia ver as coisas pequenas e reais que ainda dava tempo de salvar.
+— Eu vejo o meu pai — disse Mirana, e a voz dela tremeu ligeiramente na primeira vez em que mencionava aquilo em voz alta, em quinze anos de casamento. — Você nunca conheceu ele de verdade, porque ele já tinha desistido de tudo muito antes de eu te apresentar pra família. Mas era assim que começava. Não com loucura. Com convicção. Ele tinha certeza absoluta de que existia uma explicação maior pra tudo de ruim que tinha acontecido com a gente — minha mãe doente, meu emprego perdido, o que fosse. E quanto mais ele procurava essa explicação maior, menos ele conseguia ver as coisas pequenas e reais que ainda dava tempo de salvar.
 
 — Isso é diferente — disse Caio, mas a própria voz dele, ao dizer isso, carecia da convicção que ele certamente sentira meses antes.
 

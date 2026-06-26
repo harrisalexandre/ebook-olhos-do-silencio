@@ -10,13 +10,13 @@ Caio, dividido entre o alívio de não precisar mais conviver diariamente com a 
 
 Foi Aldo Querino quem, secretamente e sem informar a Caio sobre suas próprias ações, decidiu investigar de forma independente o desaparecimento da peça.
 
-Décadas de experiência dentro da extinta Ordem do Véu Quieto haviam ensinado a Aldo a reconhecer os canais discretos através dos quais objetos como aquele costumavam circular quando "desapareciam" de forma súbita e conveniente. Usando contatos antigos, parte deles remanescentes de sua própria juventude dentro da irmandade, Aldo conseguiu rastrear, em pouco mais de duas semanas, o paradeiro exato da estátua — agora na posse privada de um colecionador em outra cidade, que a mantinha trancada num cofre particular, sem qualquer ideia real da história completa que carregava.
+Décadas de proximidade com o antigo arquivo da Ordem do Véu Quieto haviam deixado a Aldo um conhecimento que pouquíssimas pessoas em Vasperna ainda possuíam: os nomes dos poucos intermediários discretos que, havia gerações, costumavam circular objetos "amaldiçoados" entre colecionadores que preferiam não fazer perguntas. Levou-lhe pouco mais de duas semanas de telefonemas cautelosos para confirmar que a estátua estava, de fato, na posse de um comprador final em outra cidade — e mais alguns dias de negociação, usando parte das próprias economias, para recomprá-la sob o pretexto de uma doação a um acervo universitário.
 
-Aldo negociou, usando uma parte significativa das economias pessoais que reservara para a própria aposentadoria — economias que, ele reconheceria mais tarde, sempre soubera, no fundo, que destinaria a algo relacionado àquela estátua, mesmo sem saber exatamente quando ou como —, a recompra da peça, sob a justificativa, apresentada ao colecionador desconfiado, de que representava uma instituição acadêmica interessada em estudos antropológicos regionais.
+Levou a estátua de volta para Vasperna numa noite chuvosa, e decidiu devolvê-la, sem aviso prévio, exatamente ao lugar onde sabia que Caio continuava trabalhando: o escritório improvisado no apartamento do jornalista.
 
-Levou a estátua de volta para Vasperna numa noite chuvosa, e — movido por uma culpa antiga que jamais conseguira resolver completamente desde os tempos da Ordem, a culpa de ter ajudado a esconder, em vez de explicar, um mistério que talvez sempre tivesse tido uma explicação puramente humana — decidiu devolvê-la, sem aviso prévio, exatamente ao lugar onde sabia que Caio continuava trabalhando: o escritório improvisado no apartamento do jornalista.
+A chave, ele a conseguira poucos dias antes, sob um pretexto simples: visitara o síndico do prédio, apresentando-se como "um colaborador da investigação que precisava verificar uma referência histórica no apartamento, com a permissão do próprio Caio" — uma mentira pequena, fácil de engolir para quem já vinha acompanhando, mesmo de longe, toda a notoriedade do caso. O síndico, sem motivo real para duvidar, cedeu a cópia reserva sem maiores questionamentos.
 
-Usando uma chave reserva que conseguira, anos antes, através de um vizinho idoso que cuidava ocasionalmente do prédio quando Caio e Mirana viajavam, Aldo entrou no apartamento durante a madrugada, depositou a estátua exatamente na mesma posição em que estivera antes — sobre a mesa de trabalho, sob a luz apagada do abajur — e saiu sem deixar qualquer rastro visível de sua presença.
+Usando aquela chave, Aldo entrou no apartamento durante a madrugada, depositou a estátua exatamente na mesma posição em que estivera antes — sobre a mesa de trabalho, sob a luz apagada do abajur — e saiu sem deixar qualquer rastro visível de sua presença.
 
 Caio, ao acordar na manhã seguinte e encontrar a peça de volta exatamente onde sempre estivera, sentiu um terror genuíno e imediato que ultrapassava qualquer excitação investigativa anterior.
 
@@ -28,10 +28,6 @@ Mirana, observando o rosto pálido do marido, sentiu um misto de preocupação g
 
 — Quem teria a chave? Quem saberia exatamente onde colocar?
 
-Era, de fato, uma pergunta legítima — e a resposta, se Caio tivesse investido o mesmo rigor investigativo que dedicava a teorias sobrenaturais para examinar as próprias circunstâncias domésticas e os próprios círculos de conhecidos recentes, levaria diretamente a Aldo Querino, o único pesquisador com motivos pessoais profundos, conhecimento prévio do apartamento através de conversas informais sobre onde Caio guardava seus documentos, e — mais importante — um padrão comportamental de décadas de intervenção silenciosa e culposa exatamente daquele tipo.
-
-Mas Caio, consumido pela necessidade emocional de que aquilo representasse algo extraordinário, nunca chegou a investigar com seriedade as próprias circunstâncias domésticas. Preferiu, em vez disso, escrever no caderno — agora já na quarta encadernação desde o início de tudo — uma frase que se tornaria, nos meses seguintes, o título informal do capítulo mais sombrio de toda a sua obsessão:
+Mas Caio, consumido pela necessidade emocional de que aquilo representasse algo extraordinário, nunca chegou a investigar com seriedade as próprias circunstâncias domésticas. Preferiu, em vez disso, escrever no caderno — agora já na quarta encadernação desde o início de tudo — uma frase que se tornaria, nos meses seguintes, o título informal do capítulo mais sombrio de sua obsessão:
 
 *"Ela não pode ser destruída. Ela não pode ser abandonada. Ela sempre volta."*
-
-Era, mais uma vez, uma conclusão dolorosamente equivocada construída sobre uma base factual perfeitamente correta — porque a estátua, de fato, sempre voltaria, não por qualquer força sobrenatural própria, mas porque sempre existiria, em algum lugar, algum ser humano suficientemente movido por culpa, ambição, medo ou obsessão para garantir, por suas próprias mãos, que ela jamais desaparecesse de verdade.
