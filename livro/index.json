@@ -36,6 +36,8 @@
     { "arquivo": "cap30.md", "titulo": "Capítulo 30 — A Última Noite", "ato": "Ato V — O Fim" },
     { "arquivo": "cap31.md", "titulo": "Capítulo 31 — O Limbo", "ato": "Ato V — O Fim" },
     { "arquivo": "cap32.md", "titulo": "Capítulo 32 — Despertar", "ato": "Ato V — O Fim" },
-    { "arquivo": "cap33.md", "titulo": "Epílogo — Novos Olhos", "ato": "Epílogo" }
+    { "arquivo": "cap33.md", "titulo": "Epílogo — Novos Olhos", "ato": "Epílogo" },
+    { "arquivo": "extras.md", "titulo": "Extras", "ato": "Extras" },
+    { "arquivo": "about-author.md", "titulo": "Sobre o Autor", "ato": "Extras" }
   ]
 }
