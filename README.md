@@ -1,55 +1,54 @@
-# Olhos do Silêncio
+# 👁️ Olhos do Silêncio
 
-> **Algumas casas guardam memórias. Outras... guardam algo que nunca deveria ter despertado.**
+> *"Os monstros mais perigosos raramente vivem nas sombras."*
 
-**Olhos do Silêncio** é um romance de terror psicológico, suspense e mistério que conduz o leitor por uma investigação onde realidade, culpa e insanidade tornam-se praticamente indistinguíveis.
+**Olhos do Silêncio** é um romance de terror psicológico, suspense e mistério que acompanha o jornalista **Caio Morel** durante a investigação de uma pequena estátua de pedra avermelhada envolvida por décadas de desaparecimentos, lendas e mortes inexplicáveis.
 
-Nada acontece por acaso.
+À medida que a investigação avança, o que parecia ser apenas mais um caso sobrenatural revela algo muito mais perturbador.
 
-Cada capítulo revela uma nova peça de um quebra-cabeça perturbador.
+Talvez nunca tenha existido um monstro.
 
-Cada resposta gera perguntas ainda piores.
-
-E, quando você acreditar ter entendido tudo...
-
-...será tarde demais.
+Talvez sempre tenha existido apenas um espelho.
 
 ---
 
-## 📖 Leia agora
+## 📖 Leia online
 
-A versão online pode ser acessada em:
+A história pode ser lida gratuitamente em:
 
 **https://harrisalexandre.github.io/ebook-olhos-do-silencio/**
 
 ---
 
-## Sobre o projeto
+# Uma experiência de leitura
 
-Este repositório contém uma experiência de leitura digital desenvolvida inteiramente em **HTML, CSS e JavaScript puro**, transformando arquivos Markdown em um eBook moderno, inspirado na experiência de leitura de dispositivos como Kindle e Apple Books.
+Este projeto não é apenas um livro em HTML.
 
-Todo o conteúdo é carregado dinamicamente, preservando uma navegação fluida, limpa e focada exclusivamente na história.
+Foi desenvolvido para proporcionar uma experiência semelhante à de leitores digitais modernos, transformando capítulos escritos em Markdown em um eBook completo, elegante e responsivo, utilizando apenas **HTML, CSS e JavaScript puro**.
+
+O objetivo é que o leitor esqueça que está diante de um navegador e simplesmente mergulhe na história.
 
 ---
 
-# Recursos do leitor
+# Recursos
 
+* 📖 Interface inspirada em Kindle e Apple Books
 * 🌙 Temas Claro, Escuro e Sépia
-* 📖 Experiência de leitura semelhante ao Kindle
+* 💾 Continuação automática da leitura
+* 🔖 Marcadores de página
 * 🔍 Busca em todos os capítulos
-* 📑 Marcadores de leitura
-* 💾 Salvamento automático do progresso
-* 📱 Interface totalmente responsiva
+* 📊 Barra de progresso
+* ⏱️ Tempo estimado de leitura
+* 📱 Layout totalmente responsivo
+* 🖼️ Imagens com ampliação em tela cheia
 * ⌨️ Navegação por teclado
-* 📊 Barra de progresso da leitura
-* ⏱️ Tempo estimado de leitura por capítulo
 * ⚡ Carregamento otimizado dos capítulos
 
 ---
 
 # Estrutura do projeto
 
-```
+```text
 ebook/
 ├── index.html
 ├── style.css
@@ -59,39 +58,28 @@ ebook/
     ├── index.json
     ├── prologo.md
     ├── cap01.md
-    ├── cap02.md
-    └── ...
+    ├── ...
 ```
 
----
-
-# Como executar
-
-Como os capítulos são carregados utilizando `fetch()`, o projeto precisa ser servido por um servidor HTTP local.
-
-## VS Code (recomendado)
-
-1. Instale a extensão **Live Server**
-2. Abra a pasta do projeto
-3. Clique em **Open with Live Server**
+Todo o conteúdo do livro é escrito em **Markdown**, enquanto `index.json` organiza a estrutura da obra, os atos e a ordem dos capítulos.
 
 ---
 
-## Python
+# Executando localmente
+
+Como os capítulos são carregados via `fetch()`, é necessário utilizar um servidor HTTP local.
+
+### VS Code
+
+Instale a extensão **Live Server** e abra o `index.html`.
+
+### Python
 
 ```bash
 python -m http.server 8000
 ```
 
-Depois acesse:
-
-```
-http://localhost:8000
-```
-
----
-
-## Node.js
+### Node.js
 
 ```bash
 npx serve .
@@ -99,72 +87,24 @@ npx serve .
 
 ---
 
-# Organizando os capítulos
+# Organização da obra
 
-Toda a estrutura do livro é controlada pelo arquivo:
+A estrutura do livro é definida em:
 
-```
+```text
 livro/index.json
 ```
 
-Exemplo:
+Nele é possível alterar:
 
-```json
-{
-  "titulo": "Olhos do Silêncio",
-  "autor": "Harris Alexandre",
-  "descricao": "Romance de terror psicológico.",
-  "capitulos": [
-    {
-      "arquivo":"prologo.md",
-      "titulo":"Prólogo",
-      "ato":"Prólogo"
-    }
-  ]
-}
-```
+* título
+* autor
+* descrição
+* capítulos
+* atos
+* ordem da leitura
 
-Para adicionar novos capítulos:
-
-1. Crie um novo arquivo `.md`
-2. Adicione-o ao `index.json`
-3. Defina o título e o ato correspondente
-
-A ordem dos capítulos segue exatamente a ordem definida no JSON.
-
----
-
-# Markdown suportado
-
-O leitor utiliza **marked.js** para converter Markdown em HTML.
-
-São suportados:
-
-* Títulos
-* Subtítulos
-* Negrito
-* Itálico
-* Citações
-* Listas
-* Separadores
-* Imagens
-* Links
-
----
-
-# Personalização
-
-É possível alterar facilmente:
-
-* título do livro;
-* autor;
-* descrição;
-* ordem dos capítulos;
-* cores da interface;
-* tipografia;
-* temas.
-
-Tudo sem necessidade de frameworks ou processo de build.
+Os capítulos são arquivos Markdown independentes, facilitando revisões e futuras expansões da história.
 
 ---
 
@@ -172,48 +112,34 @@ Tudo sem necessidade de frameworks ou processo de build.
 
 * HTML5
 * CSS3
-* JavaScript Vanilla
+* JavaScript (Vanilla)
 * Markdown
 * marked.js
 
----
+Sem frameworks.
 
-# Créditos
+Sem build.
 
-## Autor
-
-**Harris Alexandre**
-
-Engenheiro de Software
+Sem dependências complexas.
 
 ---
 
-## História
+# Sobre o autor
 
-**Olhos do Silêncio**
+**Harris Alexandre** é engenheiro de software e escritor independente.
 
-Escrito por **Harris Alexandre**
+Apaixonado por tecnologia, design e narrativas imersivas, desenvolveu tanto a obra quanto toda a experiência de leitura digital apresentada neste projeto.
 
----
-
-## Desenvolvimento
-
-Leitor digital desenvolvido por **Harris Alexandre**
+**Olhos do Silêncio** marca sua estreia na ficção.
 
 ---
 
-## Revisão
+# Licença
 
-**Harris Alexandre**
+O código deste projeto está disponível para fins de estudo e referência.
 
----
-
-## Licença
-
-Este projeto foi desenvolvido para fins de leitura e distribuição da obra **Olhos do Silêncio**.
-
-Todos os direitos da história, personagens, universo e conteúdo pertencem ao autor.
+A história **Olhos do Silêncio**, seus personagens, universo, textos, mapas, ilustrações e demais conteúdos criativos são protegidos por direitos autorais e pertencem exclusivamente ao autor.
 
 ---
 
-> *"Existem lugares onde o silêncio não representa paz... representa algo esperando para ser ouvido."*
+> *"Algumas histórias terminam quando a última página é virada. Outras continuam observando."*
