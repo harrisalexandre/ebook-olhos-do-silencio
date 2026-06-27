@@ -1,4 +1,4 @@
-# Capítulo 32 — A Testemunha
+## Capítulo 32 — A Testemunha
 A pergunta ficou suspensa.
 — Então... por que seus olhos são vivos?
 O silêncio que se seguiu carregava um peso diferente dos anteriores. A estátua não respondeu imediatamente. Não por hesitação. Respeito.

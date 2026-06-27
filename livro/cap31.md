@@ -1,4 +1,4 @@
-# Capítulo 31 — O Lugar Onde Nada Ecoa
+## Capítulo 31 — O Lugar Onde Nada Ecoa
 Caio esperava dor.
 Depois, escuridão.
 O vazio absoluto que tantas vezes imaginara durante as noites em claro em que investigava histórias de gente que já não podia responder por si.

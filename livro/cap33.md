@@ -1,4 +1,4 @@
-# Capítulo 33 — Os Olhos do Homem
+## Capítulo 33 — Os Olhos do Homem
 O branco começou a desaparecer. Não como uma porta que se abre. Não como uma luz que se apaga. Como uma lembrança sendo lentamente guardada.
 Caio olhou, uma última vez, para a pequena estátua. Pedra. Silenciosa. Imóvel. Os olhos, ainda vivos. Observando.
 — Existe mais alguma coisa que eu precise saber?
