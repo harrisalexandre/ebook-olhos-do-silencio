@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("../fonts/CormorantGaramond-Variable.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("../fonts/CormorantGaramond-Variable.ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("../fonts/CormorantGaramond-Italic-Variable.ttf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Cormorant SC";
+  src: url("../fonts/CormorantSC-Regular.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Cormorant SC";
+  src: url("../fonts/CormorantSC-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+html, body {
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 100%;
+  line-height: 1.65;
+  color: #1a1714;
+  background: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: "Cormorant SC", "Cormorant Garamond", serif;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #1a1714;
+  page-break-before: always;
+  margin-top: 0;
+  margin-bottom: 1.4em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 2.2em;
+}
+
+p {
+  margin: 0 0 1.1em 0;
+  text-align: left;
+  text-indent: 0;
+  orphans: 2;
+  widows: 2;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: 600;
+}
+
+/* Citações/epígrafes em itálico centralizado */
+p em:only-child {
+  display: block;
+}
+
+/* Separador de cena (---) */
+hr {
+  border: none;
+  text-align: center;
+  margin: 2em auto;
+  width: 40%;
+  border-top: 1px solid #8b1a1a;
+  opacity: 0.5;
+}
+
+/* Página de título / sinopse / dedicatória: texto centralizado */
+.titlepage, .center {
+  text-align: center;
+}
+
+sup {
+  font-size: 0.7em;
+  vertical-align: super;
+}
+
+a {
+  color: #8b1a1a;
+  text-decoration: none;
+}
+
+/* Primeira letra capitular no início de cada capítulo (efeito clássico de livro) */
+h2 + p:first-of-type::first-letter {
+  font-size: 2.6em;
+  font-family: "Cormorant SC", serif;
+  font-weight: 500;
+  float: left;
+  line-height: 0.8;
+  padding-right: 0.08em;
+  padding-top: 0.05em;
+  color: #8b1a1a;
+}
