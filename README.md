@@ -1,4 +1,4 @@
-# 👁️ Olhos do Silêncio
+# Olhos do Silêncio
 
 > *"Os monstros mais perigosos raramente vivem nas sombras."*
 
@@ -12,7 +12,7 @@ Talvez sempre tenha existido apenas um espelho.
 
 ---
 
-## 📖 Leia online
+## Leia online
 
 A história pode ser lida gratuitamente em:
 
@@ -32,17 +32,17 @@ O objetivo é que o leitor esqueça que está diante de um navegador e simplesme
 
 # Recursos
 
-* 📖 Interface inspirada em Kindle e Apple Books
-* 🌙 Temas Claro, Escuro e Sépia
-* 💾 Continuação automática da leitura
-* 🔖 Marcadores de página
-* 🔍 Busca em todos os capítulos
-* 📊 Barra de progresso
-* ⏱️ Tempo estimado de leitura
-* 📱 Layout totalmente responsivo
-* 🖼️ Imagens com ampliação em tela cheia
-* ⌨️ Navegação por teclado
-* ⚡ Carregamento otimizado dos capítulos
+* Interface inspirada em Kindle e Apple Books
+* Temas Claro, Escuro e Sépia
+* Continuação automática da leitura
+* Marcadores de página
+* Busca em todos os capítulos
+* Barra de progresso
+* Tempo estimado de leitura
+* Layout totalmente responsivo
+* Imagens com ampliação em tela cheia
+* Navegação por teclado
+* Carregamento otimizado dos capítulos
 
 ---
 
