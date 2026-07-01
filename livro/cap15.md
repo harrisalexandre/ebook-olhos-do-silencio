@@ -2,7 +2,7 @@
 
 Foi Teodoro Brass, movido por uma pressão crescente de leitores que exigiam, em comentários cada vez mais histéricos, alguma forma de "ação definitiva contra a maldição", quem primeiro sugeriu a ideia que dominaria o capítulo seguinte daquela história: jogar a estátua no oceano.
 
-— As pessoas querem ver alguma coisa acontecer — disse Teodoro, durante uma reunião de pauta tensa na redação do *A Lanterna*, já com os números de acesso começando a estabilizar depois do pico inicial de sensacionalismo. — Você documenta isso, fazemos uma matéria especial, um "ritual simbólico de encerramento". Pode ser exatamente o que precisamos pra fechar essa série com chave de oro.
+— As pessoas querem ver alguma coisa acontecer — disse Teodoro, durante uma reunião de pauta tensa na redação do A Lanterna, quando os números de acesso já começavam a se estabilizar depois do pico inicial de sensacionalismo. — Você documenta isso, a gente faz uma matéria especial, um "ritual simbólico de encerramento". Pode ser exatamente o que precisamos pra fechar essa série com chave de ouro.
 
 Caio, surpreendentemente, resistiu à ideia com mais força do que o próprio Teodoro esperava.
 
