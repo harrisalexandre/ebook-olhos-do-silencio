@@ -1,6 +1,11 @@
 /* =========================================================
-   OLHOS DO SILÊNCIO — eBook Reader
-   script.js — main application logic
+   O TABULEIRO DE VASPERNA — eBook Reader
+   Main Application Logic (script.js)
+
+   Desenvolvido por Harris Alexandre
+   https://www.instagram.com/_harrisalexandre/
+
+   © 2026. Todos os direitos reservados.
    ========================================================= */
 
 'use strict';
@@ -31,43 +36,43 @@ const state = {
 const $ = id => document.getElementById(id);
 
 const dom = {
-  body:              document.body,
-  progressFill:      $('progress-bar-fill'),
+  body: document.body,
+  progressFill: $('progress-bar-fill'),
   headerChapterInfo: $('header-chapter-info'),
-  sidebar:           $('sidebar'),
-  sidebarOverlay:    $('sidebar-overlay'),
-  sidebarTitle:      $('sidebar-title'),
-  sidebarAuthor:     $('sidebar-author'),
-  statProgress:      $('stat-progress-pct'),
-  statChapters:      $('stat-chapters-read'),
-  sidebarSearch:     $('sidebar-search-input'),
-  chapterList:       $('chapter-list'),
-  btnContinue:       $('btn-continue-reading'),
+  sidebar: $('sidebar'),
+  sidebarOverlay: $('sidebar-overlay'),
+  sidebarTitle: $('sidebar-title'),
+  sidebarAuthor: $('sidebar-author'),
+  statProgress: $('stat-progress-pct'),
+  statChapters: $('stat-chapters-read'),
+  sidebarSearch: $('sidebar-search-input'),
+  chapterList: $('chapter-list'),
+  btnContinue: $('btn-continue-reading'),
 
-  coverScreen:       $('cover-screen'),
-  coverTitle:        $('cover-book-title'),
-  coverAuthor:       $('cover-author'),
-  coverDesc:         $('cover-description'),
+  coverScreen: $('cover-screen'),
+  coverTitle: $('cover-book-title'),
+  coverAuthor: $('cover-author'),
+  coverDesc: $('cover-description'),
   coverChapterCount: $('cover-chapter-count'),
-  btnStart:          $('btn-start-reading'),
-  btnResume:         $('btn-resume-reading'),
-  resumeName:        $('resume-chapter-name'),
+  btnStart: $('btn-start-reading'),
+  btnResume: $('btn-resume-reading'),
+  resumeName: $('resume-chapter-name'),
 
-  chapterContainer:  $('chapter-container'),
-  chapterContent:    $('chapter-content'),
-  chapterReadTime:   $('chapter-reading-time'),
-  chapterPosLabel:   $('chapter-position-label'),
-  btnPrev:           $('btn-prev-chapter'),
-  btnNext:           $('btn-next-chapter'),
-  btnIndex:          $('btn-goto-index'),
-  navIndicator:      $('nav-chapter-indicator'),
+  chapterContainer: $('chapter-container'),
+  chapterContent: $('chapter-content'),
+  chapterReadTime: $('chapter-reading-time'),
+  chapterPosLabel: $('chapter-position-label'),
+  btnPrev: $('btn-prev-chapter'),
+  btnNext: $('btn-next-chapter'),
+  btnIndex: $('btn-goto-index'),
+  navIndicator: $('nav-chapter-indicator'),
 
-  settingsPanel:     $('settings-panel'),
-  searchPanel:       $('search-panel'),
-  panelBackdrop:     $('panel-backdrop'),
-  searchInput:       $('search-input'),
-  searchResults:     $('search-results'),
-  bookmarkToast:     $('bookmark-toast'),
+  settingsPanel: $('settings-panel'),
+  searchPanel: $('search-panel'),
+  panelBackdrop: $('panel-backdrop'),
+  searchInput: $('search-input'),
+  searchResults: $('search-results'),
+  bookmarkToast: $('bookmark-toast'),
 };
 
 // =========================================================
@@ -77,13 +82,13 @@ const STORAGE_KEY = 'olhos_ebook_v1';
 
 function saveState() {
   const data = {
-    currentIndex:  state.currentIndex,
-    settings:      state.settings,
-    readChapters:  [...state.readChapters],
-    favorites:     [...state.favorites],
-    bookmarks:     state.bookmarks,
+    currentIndex: state.currentIndex,
+    settings: state.settings,
+    readChapters: [...state.readChapters],
+    favorites: [...state.favorites],
+    bookmarks: state.bookmarks,
   };
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch {}
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(data)); } catch { }
 }
 
 function loadState() {
@@ -91,14 +96,14 @@ function loadState() {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return;
     const data = JSON.parse(raw);
-    if (data.settings)     Object.assign(state.settings, data.settings);
+    if (data.settings) Object.assign(state.settings, data.settings);
     if (data.readChapters) state.readChapters = new Set(data.readChapters);
-    if (data.favorites)    state.favorites    = new Set(data.favorites);
-    if (data.bookmarks)    state.bookmarks    = data.bookmarks;
+    if (data.favorites) state.favorites = new Set(data.favorites);
+    if (data.bookmarks) state.bookmarks = data.bookmarks;
     if (typeof data.currentIndex === 'number') {
       state.currentIndex = data.currentIndex;
     }
-  } catch {}
+  } catch { }
 }
 
 // =========================================================
@@ -106,9 +111,9 @@ function loadState() {
 // =========================================================
 function applySettings(s = state.settings) {
   dom.body.className = `theme-${s.theme}`;
-  dom.body.dataset.fontSize   = s.fontSize;
+  dom.body.dataset.fontSize = s.fontSize;
   dom.body.dataset.lineHeight = s.lineHeight;
-  dom.body.dataset.textWidth  = s.textWidth;
+  dom.body.dataset.textWidth = s.textWidth;
 
   // Sync buttons
   document.querySelectorAll('.theme-btn').forEach(b => {
@@ -141,7 +146,7 @@ async function prefetch(index) {
   const { chapters } = state;
   const targets = [index - 1, index + 1].filter(i => i >= 0 && i < chapters.length);
   for (const i of targets) {
-    fetchChapter(chapters[i].arquivo).catch(() => {});
+    fetchChapter(chapters[i].arquivo).catch(() => { });
   }
 }
 
@@ -150,7 +155,7 @@ async function prefetch(index) {
 // =========================================================
 function readingTime(text) {
   const words = text.trim().split(/\s+/).length;
-  const mins  = Math.ceil(words / 220);
+  const mins = Math.ceil(words / 220);
   return mins < 1 ? '< 1 min' : `${mins} min de leitura`;
 }
 
@@ -188,15 +193,15 @@ function updateGlobalProgress() {
   const total = state.chapters.length;
   if (total === 0) return;
   const pct = Math.round((state.readChapters.size / total) * 100);
-  dom.statProgress.textContent   = `${pct}%`;
-  dom.statChapters.textContent   = state.readChapters.size;
+  dom.statProgress.textContent = `${pct}%`;
+  dom.statChapters.textContent = state.readChapters.size;
 }
 
 function updateScrollProgress() {
-  const el    = document.documentElement;
-  const top   = el.scrollTop || document.body.scrollTop;
+  const el = document.documentElement;
+  const top = el.scrollTop || document.body.scrollTop;
   const total = el.scrollHeight - el.clientHeight;
-  const pct   = total > 0 ? Math.min(100, (top / total) * 100) : 0;
+  const pct = total > 0 ? Math.min(100, (top / total) * 100) : 0;
   dom.progressFill.style.width = `${pct}%`;
 }
 
@@ -226,7 +231,7 @@ function buildChapterList(filter = '') {
     item.dataset.index = i;
     if (i === state.currentIndex) item.classList.add('active');
     if (state.readChapters.has(ch.arquivo)) item.classList.add('read');
-    if (state.favorites.has(ch.arquivo))    item.classList.add('favorited');
+    if (state.favorites.has(ch.arquivo)) item.classList.add('favorited');
 
     item.innerHTML = `
       <span class="chapter-item-num">${i + 1}</span>
@@ -284,9 +289,9 @@ function closeAllPanels() {
 // =========================================================
 function showCover() {
   dom.coverScreen.classList.remove('hidden');
-  dom.coverTitle.textContent  = state.book.titulo;
+  dom.coverTitle.textContent = state.book.titulo;
   dom.coverAuthor.textContent = state.book.autor;
-  dom.coverDesc.textContent   = state.book.descricao || '';
+  dom.coverDesc.textContent = state.book.descricao || '';
   dom.coverChapterCount.textContent = `${state.chapters.length} capítulos`;
 
   if (state.currentIndex >= 0 && state.currentIndex < state.chapters.length) {
@@ -328,8 +333,8 @@ async function goToChapter(index, scrollToTop = true) {
   dom.chapterContent.innerHTML = renderMarkdown(md);
 
   // Meta
-  dom.chapterReadTime.textContent   = readingTime(md);
-  dom.chapterPosLabel.textContent   = `${index + 1} de ${chapters.length}`;
+  dom.chapterReadTime.textContent = readingTime(md);
+  dom.chapterPosLabel.textContent = `${index + 1} de ${chapters.length}`;
   dom.headerChapterInfo.textContent = `${index + 1} / ${chapters.length} — ${ch.titulo}`;
 
   // Nav buttons
@@ -368,7 +373,7 @@ async function performSearch(query) {
 
   dom.searchResults.innerHTML = '<div class="search-no-results">Buscando…</div>';
 
-  const q     = query.toLowerCase();
+  const q = query.toLowerCase();
   const results = [];
 
   for (const ch of state.chapters) {
@@ -388,8 +393,8 @@ async function performSearch(query) {
     const idx = plain.toLowerCase().indexOf(q);
     if (idx === -1) continue;
 
-    const start   = Math.max(0, idx - 60);
-    const end     = Math.min(plain.length, idx + query.length + 60);
+    const start = Math.max(0, idx - 60);
+    const end = Math.min(plain.length, idx + query.length + 60);
     const snippet = plain.slice(start, end);
     const highlighted = snippet.replace(
       new RegExp(query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi'),
@@ -454,33 +459,133 @@ function showToast(msg) {
 // =========================================================
 function setupKeyboard() {
   document.addEventListener('keydown', e => {
-    // Ignore when typing in inputs
+
+    // Ignora quando estiver digitando
     if (['INPUT', 'TEXTAREA'].includes(e.target.tagName)) return;
 
+    // Navegação forçada entre capítulos
+    if (e.ctrlKey) {
+      switch (e.key) {
+        case 'ArrowRight':
+        case 'n':
+        case 'N':
+          e.preventDefault();
+          goToChapter(state.currentIndex + 1);
+          return;
+
+        case 'ArrowLeft':
+        case 'p':
+        case 'P':
+          e.preventDefault();
+          goToChapter(state.currentIndex - 1);
+          return;
+
+        case 'b':
+        case 'B':
+          e.preventDefault();
+          addBookmark();
+          return;
+      }
+    }
+
     switch (e.key) {
+
+      // Desce uma tela
       case 'ArrowRight':
       case 'ArrowDown':
       case 'PageDown':
       case ' ':
-        if (e.key === ' ') e.preventDefault();
-        if (atBottom()) goToChapter(state.currentIndex + 1);
+        e.preventDefault();
+
+        if (e.shiftKey) {
+          // sobe
+        } else {
+          // desce
+        }
         break;
+
+      // Sobe uma tela
       case 'ArrowLeft':
       case 'ArrowUp':
       case 'PageUp':
-        if (atTop()) goToChapter(state.currentIndex - 1);
+        e.preventDefault();
+
+        if (atTop()) {
+          goToChapter(state.currentIndex - 1);
+        } else {
+          window.scrollBy({
+            top: -window.innerHeight * 0.9,
+            behavior: 'smooth'
+          });
+        }
         break;
+
+      // Shift + Espaço sobe
+      case ' ':
+        if (e.shiftKey) {
+          e.preventDefault();
+          window.scrollBy({
+            top: -window.innerHeight * 0.9,
+            behavior: 'smooth'
+          });
+        }
+        break;
+
       case 'Home':
         e.preventDefault();
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
         break;
+
       case 'End':
         e.preventDefault();
-        window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+        window.scrollTo({
+          top: document.body.scrollHeight,
+          behavior: 'smooth'
+        });
         break;
+
+      case 'b':
+      case 'B':
+        e.preventDefault();
+        addBookmark();
+        break;
+
+      case 'i':
+      case 'I':
+        e.preventDefault();
+        openSidebar();
+        break;
+
+      case 's':
+      case 'S':
+        e.preventDefault();
+        openPanel(dom.searchPanel);
+        setTimeout(() => dom.searchInput.focus(), 50);
+        break;
+
+      case 't':
+      case 'T':
+        e.preventDefault();
+        openPanel(dom.settingsPanel);
+        break;
+
       case 'Escape':
         closeAllPanels();
         closeSidebar();
+        closeImage();
+        break;
+
+      case 'F11':
+        e.preventDefault();
+
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen();
+        } else {
+          document.exitFullscreen();
+        }
         break;
     }
   });
@@ -636,11 +741,11 @@ async function init() {
     return;
   }
 
-  state.book     = book;
+  state.book = book;
   state.chapters = book.capitulos;
 
   // Sidebar book info
-  dom.sidebarTitle.textContent  = book.titulo;
+  dom.sidebarTitle.textContent = book.titulo;
   dom.sidebarAuthor.textContent = book.autor;
 
   // Build chapter list
@@ -655,7 +760,7 @@ async function init() {
 
   // If we have a stored position, prefetch that chapter in background
   if (state.currentIndex >= 0 && state.currentIndex < state.chapters.length) {
-    fetchChapter(state.chapters[state.currentIndex].arquivo).catch(() => {});
+    fetchChapter(state.chapters[state.currentIndex].arquivo).catch(() => { });
   }
 }
 
@@ -665,17 +770,17 @@ document.addEventListener('DOMContentLoaded', init);
 const modal = document.getElementById("imageModal");
 const modalImage = document.getElementById("modalImage");
 
-function openImage(src){
-    modalImage.src = src;
-    modal.classList.add("show");
-    document.body.style.overflow = "hidden";
+function openImage(src) {
+  modalImage.src = src;
+  modal.classList.add("show");
+  document.body.style.overflow = "hidden";
 }
 
-function closeImage(){
-    modal.classList.remove("show");
-    document.body.style.overflow = "";
+function closeImage() {
+  modal.classList.remove("show");
+  document.body.style.overflow = "";
 }
 
-document.addEventListener("keydown", e=>{
-    if(e.key==="Escape") closeImage();
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") closeImage();
 });
