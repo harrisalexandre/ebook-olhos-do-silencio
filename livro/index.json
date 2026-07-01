@@ -45,6 +45,7 @@
     { "arquivo": "cap32.md", "titulo": "Capítulo 32 — A Testemunha", "ato": "Ato V — O Fim" },
     { "arquivo": "cap33.md", "titulo": "Capítulo 33 — Os Olhos do Homem", "ato": "Epílogo" },
     { "arquivo": "extras.md", "titulo": "Extras", "ato": "Extras" },
-    { "arquivo": "about-author.md", "titulo": "Sobre o Autor", "ato": "Extras" }
+    { "arquivo": "about-author.md", "titulo": "Sobre o Autor", "ato": "Extras" },
+    { "arquivo": "next-book.md", "titulo": "Próximo Livro", "ato": "Extras" }
   ]
 }

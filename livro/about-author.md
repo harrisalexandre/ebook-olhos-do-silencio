@@ -21,5 +21,12 @@ Mais do que responder perguntas, suas histórias procuram deixar uma última inq
 <div align="center">
 
 *"Algumas histórias terminam na última página. Outras permanecem observando."*
+Se você gostou desta história, acompanhe meu trabalho.
 
+
+---
+
+Este é apenas o primeiro volume do universo Olhos do Silêncio.
+
+Novas histórias já estão em desenvolvimento.
 </div>
